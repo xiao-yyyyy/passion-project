@@ -16,4 +16,6 @@ But I will make some changes with the heart, such as the heart in the TV series 
 
 **2.Why and How**
 
-The reason why I want to creat this hreat is because I like this TV series, and I'm very intrested about how did they made this heart. I think it's a very romantic art, and it looks cool to draw such a artwork in computer code.
+The reason why I want to creat this hreat is because I like this TV series, and I'm very intrested about how did they made this heart. I think it's a very romantic art, and it looks cool to draw such a artwork in computer code. So I want to make something similer with it in this project.
+
+
