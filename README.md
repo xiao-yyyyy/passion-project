@@ -2,6 +2,7 @@
 ### Eileen Xiao
 ## Proposal
 **1.Description**
+
 For this project, I want to create an artwork with a heart using the code.
 
 It will not be just a single heart; tiny sequins will spread around it, and the heart in the center will beat like a real heart. As shown below.
