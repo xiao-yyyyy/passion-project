@@ -17,3 +17,7 @@ But I will make some changes with the heart, such as the heart in the TV series 
 **2.Reason**
 
 The reason why I want to create this heart is that I like this TV series, and I'm very interested in how they made this heart. I think it's a very romantic art, and it looks cool to draw such artwork in computer code. So I want to make something similar with it in this project.
+
+**3.How**
+
+I what to cry a new programming language (Python), I'm going to use weekend time and some of my class time to learn about this language (By watching videos and asking others) and figure out how each code work in the original code. I have planned what I need to do every day during the next two weeks in my milestones.
