@@ -20,4 +20,4 @@ The reason why I want to create this heart is that I like this TV series, and I'
 
 **3.How**
 
-I what to creat a new programming language (Python), I'm going to use weekend time and some of my class time to learn about this language (By watching videos and asking others) and figure out how each code work in the original code. I have planned what I need to do every day during the next two weeks in my milestones.
+I what to use a new programming language (Python), I'm going to use weekend time and some of my class time to learn about this language (By watching videos and asking others) and figure out how each code work in the original code. I have planned what I need to do every day during the next two weeks in my milestones.
