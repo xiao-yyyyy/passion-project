@@ -1,7 +1,5 @@
-#from ddf.minim import ddf.minim.*
-#import processing.sound
 import time
-import pygame
+#import pygame
 import random
 #import pygame
 #from pygame import Playmp3
@@ -17,11 +15,6 @@ IMAGE_ENLARGE = 12  # 放大比例
 HEART_COLOR ="#ff7171"  # 心的颜色#ff7171
 flag=True
 zm0=0
-
-
-
-#SoundFile file;
-
 
 def mouseclicked():
   global flag
@@ -152,8 +145,8 @@ class Heart:
     
     global zm0
     zm0+=1
-    if zm0>18:
-      zm0=1
+    if zm0==16:
+      zm0=0
     zm=zm0/16
     #if flag==True:      zm=1
 
@@ -273,14 +266,11 @@ if __name__ == '__main__':
   canvas = Canvas(root, bg='black', height=CANVAS_HEIGHT, width=CANVAS_WIDTH)
   canvas.pack()
   heart = Heart()  # 心
-  
-  #file = new SoundFile(this, "c:\2.mp3");
-  #file.play();
   #file=r"C:\music\2.mp3"
   #os.system(file)
-  pygame.mixer.init()
-  pygame.mixer.music.load('c:\\2.mp3')
-  pygame.mixer.music.play()
+  #pygame.mixer.init()
+  #track = pygame.mixer.music.load("C:\music\2.mp3")
+  #pygame.mixer.music.play()
   #soundObj=pygame.mixer.Sound('beeps.wav')
   #soundObj.play()
   #playsound(file)
