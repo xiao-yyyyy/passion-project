@@ -220,7 +220,7 @@ class Heart:
                                      x + size,
                                      y + size,
                                      width=0,
-                                     fill='yellow') 
+                                     fill='purple') 
         else:
           if(x>CANVAS_CENTER_X*1.25 and y<CANVAS_CENTER_Y*0.75) :
             render_canvas.create_rectangle(x,
